@@ -1,7 +1,7 @@
 ### `printf("Hello World);`, I'm Muhammad Zayan Tariq 👋:
 <img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 
-## I'm an aspiring Cyber Security Student, with interests in Development and Security
+### I'm an aspiring Cyber Security Student, with interests in Development and Security
 - 🌱 I currently work in React with TypeScript and JavaScript.
 - 👯 I'm currently in university, doing bachelors in Cyber Security.
 - 💬 I'm open to messages, hit me up and we can talk anything development related, or if you want to collaborate with me.
