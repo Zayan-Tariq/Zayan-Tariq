@@ -1,44 +1,163 @@
-### `printf("Hello World);`, I'm Muhammad Zayan Tariq 👋:
-<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Muhammad Zayan Tariq
 
-### I'm an aspiring Cyber Security Student, with interests in Development and Security
-- 🌱 I currently work in React with TypeScript and JavaScript.
-- 👯 I'm currently in university, doing bachelors in Cyber Security.
-- 💬 I'm open to messages, hit me up and we can talk anything development related, or if you want to collaborate with me.
-- ⚡  I speak 3 languages (English, Urdu, Punjabi).
+<img align="right" alt="Coding GIF" width="350" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" />
 
+### Cyber Security Student • Developer • Builder • Professional Bug Creator™
 
-</br>
+> *"If it compiles first try, I'm immediately suspicious."*
 
-  <b><h2>Technical Info</h2></b>
+I'm a Cyber Security student who enjoys building things, breaking things (ethically), and then figuring out why they broke in the first place.
+
+Most days you'll find me working on software projects, learning new technologies, experimenting with ideas that sounded good at 2 AM, and convincing computers to cooperate through a combination of logic, persistence, and mild intimidation.
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Muhammad Zayan Tariq
+
+education:
+  - Bachelor's in Cyber Security
+
+currently_learning:
+  - React Native
+  - MongoDB
+  - Cyber Security Fundamentals
+  - Software Architecture
+
+interests:
+  - Software Development
+  - Cyber Security
+  - Open Source
+  - Networking
+  - Automation
+  - Video Editing
+
+languages:
+  - English
+  - Urdu
+  - Punjabi
+
+fun_fact:
+  - Fixed a bug once.
+    Accidentally created three new ones.
+```
+
+---
+
+## 🛠️ Technology Arsenal
 
 <div align="center">
-<h3>My Technologies</h3> 
 
-| 🎛️ Operating System     | Version Control | Code Editor |
-| ------------- |:-------------:| -----:|
-| [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)<br>[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) |  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)<br> [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#) |
-  
-| 📋 Languages | 📚 Frameworks, Platforms and Libraries | 💾 Databases  |
-| ------------- |:-------------:| -----:|
-| [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)<br>[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)<br>[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)<br>[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)     |  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)<br>[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)<br>(To be learned)|  
-  
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Security & Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows11\&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
 </div>
 
+## 🏆 Current Quest Log
+
+* [x] Learn HTML & CSS
+* [x] Learn JavaScript
+* [x] Learn Node.js & Express
+* [x] Build Real Projects
+* [ ] Master React Native
+* [ ] Dive Deep Into Cyber Security
+* [ ] Contribute to Open Source
+* [ ] Build Something People Actually Use
+
+---
+
+## 🚧 Featured Projects
+
+### 📔 Journal App
+
+A modern journaling application built with React Native featuring organized year/month navigation and local persistence. Currently working it to make it available for everyone to use.
+
+### 🎬 Creative Editing Portfolio
+
+Motion graphics, visual effects, and cinematic edits created using professional editing tools.
+
+### 💻 Personal Development Projects
+
+Experiments, learning projects, automation tools, and software ideas brought to life through code.
+
+---
+
+## 📈 Developer Philosophy
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Fail();
+    Improve();
+    Repeat();
+}
+```
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
-<h3>Currently Learning:</h3>
+
+<a href="https://www.linkedin.com/in/muhammad-zayan-tariq-b5127a380/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
-[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) 
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) 
-<br>
-
-### Lets's Connnect: 
-<br>
-<a href="https://www.linkedin.com/in/muhammad-zayan-tariq-b5127a380/" target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+---
 
 <div align="center">
-  <b></b>
-<div>
-  
-  ------ 
+
+### ⚡ Fun Fact
+
+I started with simple websites.
+
+Then Discord bots.
+
+Then full-stack applications.
+
+Now I'm studying Cyber Security.
+
+At this rate I'll eventually end up reverse engineering a toaster.
+
+---
+
+*"The best way to predict the future is to build it."*
+
+</div>
