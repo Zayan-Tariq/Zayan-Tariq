@@ -24,6 +24,7 @@ currently_learning:
   - React Native
   - MongoDB
   - Cyber Security Fundamentals
+  - Network Programming
   - Software Architecture
 
 interests:
@@ -77,6 +78,7 @@ fun_fact:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows11\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Development Tools
 
@@ -93,7 +95,8 @@ fun_fact:
 * [x] Learn Node.js & Express
 * [x] Build Real Projects
 * [ ] Master React Native
-* [ ] Dive Deep Into Cyber Security
+* [x] Dive Deep Into Cyber Security
+* [x] Learning Network Programming in C
 * [ ] Contribute to Open Source
 * [ ] Build Something People Actually Use
 
