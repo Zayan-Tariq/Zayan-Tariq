@@ -74,6 +74,7 @@ fun_fact:
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Security & Operating Systems
 
@@ -123,8 +124,7 @@ Experiments, learning projects, automation tools, and software ideas brought to 
 ## 📈 Developer Philosophy
 
 ```cpp
-while(alive)
-{
+while(alive) {
     Learn();
     Build();
     Fail();
