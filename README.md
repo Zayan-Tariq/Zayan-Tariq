@@ -124,12 +124,13 @@ Experiments, learning projects, automation tools, and software ideas brought to 
 ## 📈 Developer Philosophy
 
 ```cpp
-while(alive) {
+while (alive) {
+
     Learn();
     Build();
     Fail();
     Improve();
-    Repeat();
+
 }
 ```
 
